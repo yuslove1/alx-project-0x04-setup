@@ -1,4 +1,4 @@
-# StateCraft: Task 1 - Counter App with useState (alx-project-0x04)
+# StateCraft: Mastering State Management with Redux & Context API(Task 0 - Counter App with useState)
 
 This is the first task of the "StateCraft" project, focusing on building a simple counter app using React's `useState` hook.  This serves as a starting point for exploring state management in React before introducing more advanced techniques like Redux and Context API.
 
